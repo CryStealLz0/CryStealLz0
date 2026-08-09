@@ -79,11 +79,6 @@ contact: dimaszxc101@gmail.com
 
 <br/><br/>
 
-<!-- Top Languages across all repos -->
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryStealLz0&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/><br/>
-
 <!-- Contribution Activity Graph -->
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=CryStealLz0&theme=tokyo-night&hide_border=true&area=true" />
 
