@@ -23,7 +23,7 @@
 ## 👨‍💻 About Me
 
 A curious and analytical developer from **Tangerang Selatan, Indonesia** who enjoys building things that are clean, logical, and useful.
-Currently finishing my **S1 Teknik Informatika** at Universitas Pamulang while actively working on real-world projects.
+Currently finishing my **Bachelor’s degree in Informatics Engineering** at Pamulang University while actively working on real-world projects.
 I'm preparing to enter the tech industry as a **Software Engineer / Full Stack Developer** — and quietly planning a game development project on the side. 🎮
 
 - 🔍 &nbsp;I enjoy **analyzing problems** and finding logical, structured solutions
