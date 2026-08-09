@@ -11,10 +11,10 @@
 <br/>
 
 <!-- Profile Views & Followers -->
-<p>
+<!-- <p>
   <img src="https://komarev.com/ghpvc/?username=CryStealLz0&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/CryStealLz0?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
-</p>
+</p> -->
 
 </div>
 
