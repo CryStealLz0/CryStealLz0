@@ -74,13 +74,8 @@ contact: dimaszxc101@gmail.com
 <div align="center">
 
 <!-- Stats & Streak -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CryStealLz0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CryStealLz0&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
-
-<!-- Contribution Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=CryStealLz0&theme=tokyo-night&hide_border=true&area=true" />
 
 <br/><br/>
 
