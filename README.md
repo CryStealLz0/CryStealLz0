@@ -39,84 +39,33 @@ contact: dimaszxc101@gmail.com
 
 ---
 
-## 🛠 Tech Stack
+## 📚 Learning Journey
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+> Technologies & tools I've learned and worked with across projects and training programs.
 
-### ⚙️ Backend
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### 🗄 Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎓 PharmSITA</h3>
-      <p><strong>Thesis Management Information System</strong></p>
-      <p>Full-stack app for managing the entire thesis lifecycle — from submission, mentoring, seminars, to final defense.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Drive_API-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
-      </p>
-      <p><em>Role: Full-Stack Developer & Project Leader</em></p>
-    </td>
-    <td width="50%">
-      <h3>❤️ Jantung Sehat</h3>
-      <p><strong>Heart Health Monitoring App</strong></p>
-      <p>Mobile application for monitoring heart health conditions and managing patient data, developed end-to-end with a cross-functional team.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      </p>
-      <p><em>Role: Project Manager</em></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏭 Jakartan Aluminium Foil</h3>
-      <p><strong>Company Landing Page</strong></p>
-      <p>Professional company landing page built with WordPress, optimized for responsiveness and business presentation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-      </p>
-      <p><em>Role: WordPress Developer & Project Lead</em></p>
-    </td>
-    <td width="50%">
-      <h3>📜 Certifications</h3>
-      <p><strong>Training & Bootcamps (2022–2024)</strong></p>
-      <p>Web Dev, JavaScript, Front-End, Back-End, REST API, SQL, Git, DevOps, Cloud Computing — trained via Dicoding, Inosoft & more.</p>
-      <p>
-        <a href="https://drive.google.com/drive/folders/1-eLx135vVbg1_RaLqARyGI_9DT4yZ0MY?usp=sharing">
-          <img src="https://img.shields.io/badge/View_Certificates-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
 
@@ -124,10 +73,30 @@ contact: dimaszxc101@gmail.com
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CryStealLz0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<!-- Stats & Streak -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CryStealLz0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CryStealLz0&theme=tokyonight&hide_border=true" />
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryStealLz0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<br/><br/>
+
+<!-- Top Languages across all repos -->
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryStealLz0&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<!-- Contribution Activity Graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=CryStealLz0&theme=tokyo-night&hide_border=true&area=true" />
+
+<br/><br/>
+
+<!-- Profile Summary Cards (auto-detect repos & languages) -->
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CryStealLz0&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CryStealLz0&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CryStealLz0&theme=tokyonight&utcOffset=7" />
+
+<br/><br/>
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CryStealLz0&theme=tokyonight" />
 
 </div>
 
