@@ -22,20 +22,16 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name: Dimas Indra Jaya
-location: Tangerang Selatan, Indonesia
-education: S1 Teknik Informatika — Universitas Pamulang (GPA 3.38/4.00)
-focus:
-  - Full-Stack Web Development
-  - Backend Engineering (NestJS, Laravel)
-  - Frontend Development (React, TypeScript)
-  - Project Management & System Design
-currently_building:
-  - PharmSITA — Thesis Management Information System (Full-Stack)
-  - Jantung Sehat — Heart Health Monitoring App (Project Manager)
-contact: dimaszxc101@gmail.com
-```
+A curious and analytical developer from **Tangerang Selatan, Indonesia** who enjoys building things that are clean, logical, and useful.
+Currently finishing my **S1 Teknik Informatika** at Universitas Pamulang while actively working on real-world projects.
+I'm preparing to enter the tech industry as a **Software Engineer / Full Stack Developer** — and quietly planning a game development project on the side. 🎮
+
+- 🔍 &nbsp;I enjoy **analyzing problems** and finding logical, structured solutions
+- 🛠️ &nbsp;I like **building full-stack applications** — from system design to deployment
+- 📖 &nbsp;I love **learning new technologies**, especially when they make sense to me
+- 🤝 &nbsp;I enjoy **collaborating with teams** and communicating with clients to understand real needs
+- 🎮 &nbsp;I'm currently **planning a game project** — designing mechanics, features, and system concepts
+- 🌱 &nbsp;I'm always open to **feedback and growth**, both technically and personally
 
 ---
 
